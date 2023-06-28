@@ -15,7 +15,9 @@ The Survey App is a web-based application that allows users to create and conduc
 
 ## Technologies Used
 
-- Java JDBC
+- Java 
+- JDBC
+- SERVLET
 - JSP
 - MySQL Database
 
