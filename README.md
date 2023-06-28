@@ -6,7 +6,7 @@ The Survey App is a web-based application that allows users to create and conduc
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Author](#author)
+- [Usage](#usage)
 
 ## Features
 
@@ -21,9 +21,9 @@ The Survey App is a web-based application that allows users to create and conduc
 - JSP
 - MySQL Database
 
-### Links
+## Usage
 
-- Solution URL: [https://github.com/lesego16/tip-calculator-app](https://github.com/lesego16/tip-calculator-app)
+1. Solution URL: [https://github.com/lesego16/tip-calculator-app](https://github.com/lesego16/tip-calculator-app)
 - Live Site URL: [https://lesego16.github.io/tip-calculator-app/](https://lesego16.github.io/tip-calculator-app/)
 
 ## My process
