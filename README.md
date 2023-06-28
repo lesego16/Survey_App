@@ -5,7 +5,7 @@ The Survey App is a web-based application that allows users to create and conduc
 ## Table of contents
 
 - [Features](#features)
-- [My process](#my-process)
+- [Technologies Used](#technologies-used)
 - [Author](#author)
 
 ## Features
@@ -13,9 +13,11 @@ The Survey App is a web-based application that allows users to create and conduc
 - Users can create surveys
 - Users can view results in real time
 
-### Screenshot
+### Technologies Used
 
-![](./images/Screenshot.png)
+- Java JDBC
+- JSP
+- MySQL Database
 
 ### Links
 
