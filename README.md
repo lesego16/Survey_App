@@ -23,7 +23,8 @@ The Survey App is a web-based application that allows users to create and conduc
 
 ## Usage
 
-1. Solution URL: [https://github.com/lesego16/tip-calculator-app](https://github.com/lesego16/tip-calculator-app)
+1. Open the application in your web browser
+2. Click the button 'fill out survey' to pen a new form
 - Live Site URL: [https://lesego16.github.io/tip-calculator-app/](https://lesego16.github.io/tip-calculator-app/)
 
 ## My process
