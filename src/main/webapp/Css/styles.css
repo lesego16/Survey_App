@@ -1,0 +1,21 @@
+.card {
+    background-color: #fff !important;
+    border: 1px transparent;
+    margin: 1rem 2rem;
+}
+
+.scroll {
+    overflow: hidden;
+}
+
+.wrapper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #f8f9fa !important;
+    background-clip: border-box;
+    border: 1px transparent;
+    border-radius: 0.25rem;
+}

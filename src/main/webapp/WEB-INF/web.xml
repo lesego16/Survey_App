@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <servlet>
+    <description></description>
+    <display-name>SurveyController</display-name>
+    <servlet-name>SurveyController</servlet-name>
+    <servlet-class>com.surveyapp.controller.SurveyController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SurveyController</servlet-name>
+    <url-pattern>/SurveyController</url-pattern>
+  </servlet-mapping>
+  <display-name>Survey_App</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>ResultsController</display-name>
+    <servlet-name>ResultsController</servlet-name>
+    <servlet-class>com.surveyapp.controller.ResultsController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ResultsController</servlet-name>
+    <url-pattern>/ResultsController</url-pattern>
+  </servlet-mapping>
+</web-app>
