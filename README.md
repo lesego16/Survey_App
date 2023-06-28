@@ -27,7 +27,6 @@ The Survey App is a web-based application that allows users to create and conduc
 2. Click the button 'fill out survey' to open a new form
 3. Fill in your details then click the 'submit' button you will be redirected to the home page
 4. Click 'view survey results' to view the results of the survey
-- Live Site URL: [https://lesego16.github.io/tip-calculator-app/](https://lesego16.github.io/tip-calculator-app/)
 
 ## My process
 
