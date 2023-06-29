@@ -102,7 +102,7 @@ public class SurveyController extends HttpServlet{
 		
 		
 		int ageInt = Integer.parseInt(age);
-		if(ageInt < 5 && ageInt > 120) {
+		if(ageInt < 5 || ageInt > 120) {
 			request.setAttribute("ageerrormessage", "Age must be betweeen 5 and 120");
 			RequestDispatcher requestDispatcher = request.getRequestDispatcher("survey-form.jsp");
 			requestDispatcher.forward(request, response);

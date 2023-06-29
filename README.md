@@ -7,6 +7,7 @@ The Survey App is a web-based application that allows users to create and conduc
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 
 ## Features
 
@@ -28,4 +29,6 @@ The Survey App is a web-based application that allows users to create and conduc
 3. Fill in your details then click the 'submit' button you will be redirected to the home page
 4. Click 'view survey results' to view the results of the survey
 
+## Screenshot
 
+![](./images/Survey-App.png)
